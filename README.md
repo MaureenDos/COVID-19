@@ -4,6 +4,8 @@
 ### Project Overview
 This data analysis aims to provide insights into COVID-19 India status report by analysing the total cases, recoveries, death and vaccination doses
 
+![Screenshot 2025-02-25 113542](https://github.com/user-attachments/assets/097a09ed-acb5-4d4e-85c9-a36a41f4e019)
+
 ### Data Sources
 
 COVID-19 Data: The primary dataset used for this analysis is the "Latest covid-19 India status" and "CCOVID-19 statewise vaccine data" file, containg detailed information on COVID-19 in India
